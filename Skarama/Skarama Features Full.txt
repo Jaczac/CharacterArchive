@@ -1,0 +1,68 @@
+Skarama Features Full
+
+Air Monk: 
+	Charming Personality. You can cast the charm person spell as a 1st-level spell once with this trait, and regain the ability to do so when you 
+	Ascetic Diet. You only need half as much food and water as a creature your size would normally need.
+	Sky Legs. You can travel normally in altitudes up to 10,000 feet, and are not disadvantaged by strong winds.
+	Light Foot. Any distance you fall counts as though the fall were 20 feet shorter than it actually is.
+Air Lacer:
+	Elemental Strike
+		At 1st level, your practice with lacing allows you to blast an opponent with an elemental strike. You can use your elemental strike when you make an attack. Your elemental strike has the following properties:
+		You roll a d6 for the damage of your elemental strike. This die changes as you gain lacer levels, as shown in the Elemental Strike column of the Lacer table. Your elemental strike deals bludgeoning damage.
+		Your elemental strike is a ranged weapon with a normal range of 20 feet, or a long range of 60 feet. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the strike's long range.
+		Despite being a ranged weapon, you do not have disadvantage on attack rolls with your elemental strike when a hostile creature is within 5 feet of you, nor when attacking a creature that is prone within 20 feet of you.
+		You can use Strength instead of Dexterity for the attack and damage rolls of your elemental strike.
+		When you reduce a creature to 0 hit points, you can choose to avoid killing them with your elemental strike, leaving them unconscious.
+		When you take the Attack action with a weapon with which you have pro
+	Deflection
+		You can spend 1 ki point as a reaction to deflect or dissipate an elemental strike, form attack, or spell attack that would deal damage to you. When you do so, the damage you take from the attack is reduced by 1d10 + your ki ability modifier + your lacer level.
+	Power Blow
+		When you hit an enemy with an elemental strike, you can spend 1 ki point to force the enemy to make a Strength saving throw. On a failed save, the enemy is pushed 10 feet away from you.
+	Surprising Angle:
+		When you make an attack against a creature with an elemental strike, you can spend 1 ki point to hit the target from any angle, not simply in a straight line. This allows you to ignore the effects of any amount of cover except for total cover.
+	Forms: 11, 3
+	Prana Burst
+		Starting at 2nd level, when you hit a creature with an elemental strike, you can expend 1 ki point to deal an additional 1d8 damage to the target.
+		You can spend 1 additional ki point on this ability at 5th, 11th, and 17th level. For each ki point you spend, you deal an additional 1d8 damage on the attack.
+	Elemental Arts - 8 Palms
+		At 3rd level, you begin to follow a style of lacing, mastering the forms of those who have come before you. Many lacers choose Ten Animal style, mimicking animal movements with their lacing forms. Lacers of each element have also studied styles unique to their element. Eastern Shaolin (
+		Fancy Dancer
+			Starting when you choose this style at 3rd level, you can keep out of harm’s way with a technique known as circle walking. Whenever an enemy makes a melee attack against you, you can spend 1 ki point to activate your De
+		Leaf in the Wind
+			Beginning at 6th level, your speed increases by 10 feet, and your jump distance is doubled.
+		Blind Monk
+			Starting at 10th level, the blinded condition has no effect on you unless you are also deafened.
+			Additionally, you can spend 2 ki points as a reaction any time you would be grappled or restrained to escape from the effect.
+	Extra Attack
+	Air Matter Skandha
+		You can spend 2 ki points as a reaction whenever you are subject to a melee weapon attack to take the Disengage action and move up to half your speed, avoiding the attack.
+	Ability Score Improvement(dex 1/wis 1, feat(sound master))
+		You learn the message cantrip.
+		You can make your voice up to three times as loud as normal. You have advantage on Wisdom (Perception) checks that rely on hearing.
+		You can designate one 5-foot cube as an action. The area you designate is silenced until the beginning of your next turn. No sound can be created within or pass through the area. Any creature or object entirely inside the area is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
+
+	Push it
+		Starting at 7th level, you are able to push yourself past your normal limits. As a bonus action, you can regain 2 ki points, up to your maximum number of ki points. When you use this feature, you must make a DC 10 Constitution saving throw. On a failed save, you suffer one level of exhaustion.
+		Each time you use this feature after the DC increases by 5. Resets to 10 after a short or long rest.
+	Air Sensation Skandha
+		When you are subjected to an effect that allows you to
+		make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+Air Sanctuary 
+	You make friends quickly and easily, even with those who others might shy away from. You are not as easily intimidated as others by creatures with whom you can communicate, and those creatures are more likely to be friendly toward you.
+
+Air Glider
+	Air Glider. The air glider is a specialized staff created by the air monks. It appears to be a normal quarterstaff, although it is not used for combat (and is in fact quite fragile). Despite this fact, an airlacer can hold an air glider in their hands and still perform all airlacing normally, including elemental attacks and forms. The true purpose of the air glider is to extend the large main wings (as well as a set of auxiliary wings at the base) and use the glider to fly. The wings can be extended with a bonus action. Anyone can use the glider to glide. Your rate of descent slows to 60 feet per round. You can move horizontally up to 60 feet each round while you glide. An airlacer (anyone who has access to Basic Airlacing) can instead use the glider to truly fly. As a bonus action while flying, you can choose to reduce your fall rate to 0. If you take an action, you can instead climb up to 30 feet. You can move horizontally up to 60 feet each round while you glide. An airlacer who has ki points can spend 1 ki point as an action to double their speed while gliding. For 10 minutes (as long as you concentrate), you can gain up to 60 feet vertically each round, and you can move up to 120 feet horizontally.
+
+Forms:(11 total, max lvl 3)
+	Theft of the South
+	Thunderburst
+	Air Cushion
+	Mighty Leap
+	Vortex
+	Heart of the Sky
+	Counterlace
+	Windwall
+	Tympanum Assault
+	Whiff
+	Earsplitting Ring

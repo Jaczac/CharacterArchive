@@ -1,0 +1,17 @@
+Khirkopsha Features
+
+FEATURE: SHELTER OF THE FAITHFUL
+	As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.
+	You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there, This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home, While near your temple. you can call upon the priests for assistance. provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
+
+RAGE
+	In battle, you fight with primai ferocity. On your turn, you can enter a rage as a bonus action. While raging, you gain the following benefits ifyou aren't wearing heavy armor:
+		You have advantage on Strength checks and Strength saving throws.
+		When you make a melee weapon attack using Strcngth, you gain a bonus to the damage roll that increases as you gain leveis as a barbarian, as shown in the Rage Damage column of the Barbarian table. You have resistance to bludgeoning, piercing, and slashing damage.
+		If you are able to cast spells, you ean't cast them or concentrate on tbem while raging.
+	Your rage lasts for 1 minute. It ends early if you are knocked unconscious or ifyour turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+	Once you have raged the number of times shown
+	for your barbarian leveI in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
+
+UNARMORED DEFENSE
+	While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
