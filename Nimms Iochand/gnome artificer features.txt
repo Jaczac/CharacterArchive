@@ -5,3 +5,40 @@ Racial:
 		You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
 	Artificer's Lore. Whenever you make an Intelligence (History) check related to magic items, alchemical objects, are technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normallyappIy.
 	Tinker. You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materiaIs to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), ar when you use your action to dismantle it; at that time, you can reclaim the materiaIs used to create il. Vou can have up to three such devices active at a time.
+
+Artificier 3
+	Magical Tinkering
+		Give a tiny nonmagical object a property with tinkers or other artisan's tools. The chosen property lasts indefinitely. As an action, you can touch the object and end the property early. You can give the magic of this feature to multiple objects, touching one object each time you use the feature, and a single object can bear only one of the properties at a time. The maximum number of objects you can affect with the feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.
+		Properties
+			The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+			Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
+			The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
+			A static visual effect appears on one of the object’s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
+
+	Infuse Item
+		Infuse a number(max at once on the table) items (max total on table) per long rest, lasts indefinitely, or if you switch from the insuion
+		Infusions:
+			Returning weapon
+			Enhanced Defence
+			Enhanced Weapon
+			others
+
+	The Right Tool for the Job
+		At 3rd level, you learn how to produce exactly the tool you need: with tinker's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+
+
+	Power Armor
+		Beginning at 3rd level, your metallurgical pursuits have led to you making armor a conduit for your artificer magic. As an action, you can turn a suit of heavy armor you are wearing into power armor, provided you have smith’s tools in hand. You gain the following benefits while wearing the power armor:
+			• If the armor normally has a Strength requirement, the power armor lacks this requirement for you.
+			• You can use the power armor as a spellcasting focus for your artificer spells.
+			• The power armor attaches to you and can’t be removed against your will. It also expands to cover your entire body, and it replaces any missing limbs, functioning identically to a body part it is replacing.
+		The armor continues to be power armor until you doff it, you don another suit of armor, or you die.
+	
+		Armor model -- Infiltrator?
+			Lightning Launcher - A gemlike node appears on one of your armored fists or on the chest (your choice). It counts as a simple ranged weapon, with a normal range of 90 feet and a long range of 300 feet, and it deals 1d6 lightning damage on a hit. Once on each of your turns when you hit a creature with it, you can deal an extra 1d6 lightning damage to that target.
+			Powered Steps -  Your walking speed increases by 5 feet.
+			Second Skin - The armor’s weight is negligible, and it becomes formfitting and wearable under clothing. If the armor normally imposes disadvantage on Dexterity (Stealth) checks, the power armor doesn’t.
+
+Background(sage):
+	Researcher
+		When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature, Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
