@@ -30,13 +30,13 @@ Air Lacer:
 			Starting when you choose this style at 3rd level, you can keep out of harm’s way with a technique known as circle walking. Whenever an enemy makes a melee attack against you, you can spend 1 ki point to activate your De
 		Leaf in the Wind
 			Beginning at 6th level, your speed increases by 10 feet, and your jump distance is doubled.
-		Blind Monk
-			Starting at 10th level, the blinded condition has no effect on you unless you are also deafened.
-			Additionally, you can spend 2 ki points as a reaction any time you would be grappled or restrained to escape from the effect.
+		########################Blind Monk
+		########################	Starting at 10th level, the blinded condition has no effect on you unless you are also deafened.
+		########################	Additionally, you can spend 2 ki points as a reaction any time you would be grappled or restrained to escape from the effect.
 	Extra Attack
 	Air Matter Skandha
 		You can spend 2 ki points as a reaction whenever you are subject to a melee weapon attack to take the Disengage action and move up to half your speed, avoiding the attack.
-	Ability Score Improvement(dex 1/wis 1, feat(sound master))
+	Ability Score Improvement(feat(sound master))
 		You learn the message cantrip.
 		You can make your voice up to three times as loud as normal. You have advantage on Wisdom (Perception) checks that rely on hearing.
 		You can designate one 5-foot cube as an action. The area you designate is silenced until the beginning of your next turn. No sound can be created within or pass through the area. Any creature or object entirely inside the area is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
@@ -54,15 +54,12 @@ Air Sanctuary
 Air Glider
 	Air Glider. The air glider is a specialized staff created by the air monks. It appears to be a normal quarterstaff, although it is not used for combat (and is in fact quite fragile). Despite this fact, an airlacer can hold an air glider in their hands and still perform all airlacing normally, including elemental attacks and forms. The true purpose of the air glider is to extend the large main wings (as well as a set of auxiliary wings at the base) and use the glider to fly. The wings can be extended with a bonus action. Anyone can use the glider to glide. Your rate of descent slows to 60 feet per round. You can move horizontally up to 60 feet each round while you glide. An airlacer (anyone who has access to Basic Airlacing) can instead use the glider to truly fly. As a bonus action while flying, you can choose to reduce your fall rate to 0. If you take an action, you can instead climb up to 30 feet. You can move horizontally up to 60 feet each round while you glide. An airlacer who has ki points can spend 1 ki point as an action to double their speed while gliding. For 10 minutes (as long as you concentrate), you can gain up to 60 feet vertically each round, and you can move up to 120 feet horizontally.
 
-Forms:(11 total, max lvl 3)
+Forms:(8 total, max lvl 2)
 	Theft of the South
 	Thunderburst
 	Air Cushion
-	Mighty Leap
+	Updraft
 	Vortex
-	Heart of the Sky
-	Counterlace
-	Windwall
-	Tympanum Assault
-	Whiff
-	Earsplitting Ring
+	earsplitting ring
+	air scooter
+	zephyr onslaught
